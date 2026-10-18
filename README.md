@@ -29,3 +29,10 @@ Core: Harvesting is the indigenous beings managing the planet’s ecology, not a
 [**Extra No. 0 · The Hearing**](https://github.com/3756955913-bit/MyWorld.github.io/wiki/Extra-No.-0-%C2%B7-The-Hearing)
 
 [**第零号番外 · 听证会议**](https://github.com/3756955913-bit/MyWorld.github.io/wiki/%E7%AC%AC%E9%9B%B6%E5%8F%B7%E7%95%AA%E5%A4%96-%C2%B7-%E5%90%AC%E8%AF%81%E4%BC%9A%E8%AE%AE)
+
+# License
+All novels, poems and documents in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC-BY-4.0).
+
+You are free to share and adapt the material for any purpose, including commercial use, as long as appropriate credit is given, a link to the license is provided, and changes are indicated.
+
+License URL: https://creativecommons.org/licenses/by/4.0/
